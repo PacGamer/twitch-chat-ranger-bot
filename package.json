@@ -1,0 +1,22 @@
+{
+  "name": "twitch-chat-ranger-bot",
+  "version": "1.0.0",
+  "description": "Twitch chat moderator bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Twitch",
+    "moderator",
+    "bot",
+    "ranger"
+  ],
+  "author": "pacgamer",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "tmi.js": "^1.2.1",
+    "wordfilter": "^0.2.6"
+  }
+}
